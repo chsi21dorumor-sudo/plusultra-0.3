@@ -1,7 +1,7 @@
 # Plus Ultra — a My Hero Academia fan mod (NeoForge 1.21.1)
 
 Unofficial fan project. *My Hero Academia* belongs to Kohei Horikoshi / Shueisha.
-All code, textures and data in this project are original; nothing is taken from Clover Craft or any other mod.
+All code, textures and data in this project are original; nothing is taken from  any other mod.
 
 ## Features
 
